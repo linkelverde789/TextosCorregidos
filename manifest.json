@@ -1,0 +1,14 @@
+{
+    "Name": "Textos mejorados",
+    "Author": "linkelverde789",
+    "Version": "2.3.0",
+    "MinimumApiVersion": "4.0.7",
+    "MinimumGameVersion": "1.6.4",
+    "Description": "Modifica los textos de Stardew Valley",
+    "UniqueID": "linkelverde789.textos_mejorados",
+    "UpdateKeys": ["Nexus:26705"],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  }
+  
